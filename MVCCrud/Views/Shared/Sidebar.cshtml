@@ -1,0 +1,61 @@
+﻿<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
+
+    <!-- Sidebar - Brand -->
+    <a class="sidebar-brand d-flex align-items-center justify-content-center" href="/Home/EntryAction">
+        <div class="sidebar-brand-icon rotate-n-15">
+            <i class="fas fa-laugh-wink"></i>
+        </div>
+        <div class="sidebar-brand-text mx-3">Task Management</div>
+    </a>
+
+    <!-- Divider -->
+    <hr class="sidebar-divider my-0">
+
+    <!-- Nav Item - Dashboard -->
+    @{ if (TempData.ContainsKey("Role") && TempData.Peek("Role").Equals("Student"))
+        {
+            <li class="nav-item active">
+                <a class="nav-link" href="/Student/StudentDashboard">
+                    <i class="fas fa-fw fa-bolt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/Student/ListOfTasks">
+                    <i class="fas fa-fw fa-book"></i>
+                    <span>List Of Tasks</span>
+                </a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item active">
+                <a class="nav-link" href="/Teacher/TeacherDashboard">
+                    <i class="fas fa-fw fa-bolt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/Teacher/CreateTask">
+                    <i class="fas fa-fw fa-pen"></i>
+                    <span>Create Task</span>
+                </a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/Teacher/ListOfTaskForTeacher">
+                    <i class="fas fa-fw fa-group"></i>
+                    <span>Assign Task</span>
+                </a>
+            </li>
+        } 
+    }
+
+    <!-- Divider -->
+    <hr class="sidebar-divider">
+
+    <!-- Sidebar Toggler (Sidebar) -->
+    <div class="text-center d-none d-md-inline">
+        <button class="rounded-circle border-0" id="sidebarToggle"></button>
+    </div>
+
+</ul>

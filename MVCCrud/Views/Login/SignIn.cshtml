@@ -1,0 +1,64 @@
+﻿@model MVCCrud.Models.CustomModel.LoginModel
+
+@{ Layout = "~/Views/Shared/_LoginLayout.cshtml"; }
+
+
+<script>
+    function resetForm() {
+        $('#login_password').val("");
+        $('#login_username').val("");
+    }
+
+    function togglePassword() {
+        var x = document.getElementById("login_password");
+        if (x.type === "password") {
+            x.type = "text";
+        } else {
+            x.type = "password";
+        }
+    }
+</script>
+
+
+
+<div class="d-flex">
+    <div class="w-100">
+        <h3 class="mb-4">Sign In</h3>
+    </div>
+</div>
+<form action="/Login/SignIn" class="signin-form" method="post" id="sign-in" novalidate>
+    <select class="form-select py-3" name="Role" onchange="resetForm()">
+        <option>Select Role</option>
+        <option value="Student">Student</option>
+        <option value="Teacher">Teacher</option>
+    </select>
+    @Html.ValidationMessage("Role", new { @class = "text-danger" })
+    <div class="form-floating mt-3">
+        @Html.TextBoxFor(m => m.login_username, new { @class = "form-control", @type = "text", @placeholder = "" })
+        @Html.LabelFor(m => m.login_username, "Username")
+        @Html.ValidationMessageFor(m => m.login_username, null, new { @class = "text-danger" })
+    </div>
+    <div class="form-floating my-3">
+        @Html.TextBoxFor(m => m.login_password, new { @class = "form-control", @type = "password", @placeholder = "" })
+        @Html.LabelFor(m => m.login_password, "Password")
+        @Html.ValidationMessageFor(m => m.login_password, null, new { @class = "text-danger" })
+    </div>
+    <input type="checkbox" onclick="togglePassword()" />
+    <label>Show Password</label>
+    <div class="form-group">
+        <button type="submit" class="form-control btn btn-primary rounded submit px-3">Sign In</button>
+    </div>
+    <div class="form-group d-md-flex">
+        <div class="w-50 text-left">
+            <label class="checkbox-wrap checkbox-primary mb-0">
+                Remember Me
+                <input type="checkbox" checked>
+                <span class="checkmark"></span>
+            </label>
+        </div>
+        <div class="w-50 text-md-right">
+            <a href="/Login/ForgotPassword">Forgot Password</a>
+        </div>
+    </div>
+</form>
+<p class="text-center">Not a member? <a href="/Login/SignUp">Sign Up</a></p>

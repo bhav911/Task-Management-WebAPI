@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CRUDdbModel1StoreContainer" CdmEntityContainer="CRUDdbEntities2">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="CRUDdbModel1.Admins">
+        <MappingFragment StoreEntitySet="Admins">
+          <ScalarProperty Name="adminID" ColumnName="adminID" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+          <ScalarProperty Name="adminPassword" ColumnName="adminPassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="CRUDdbModel1.Employees">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="employeeID" ColumnName="employeeID" />
+          <ScalarProperty Name="firstname" ColumnName="firstname" />
+          <ScalarProperty Name="lastname" ColumnName="lastname" />
+          <ScalarProperty Name="emp_role" ColumnName="emp_role" />
+          <ScalarProperty Name="phoneNumber" ColumnName="phoneNumber" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="emp_address" ColumnName="emp_address" />
+          <ScalarProperty Name="gender" ColumnName="gender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Employees_Profile">
+      <EntityTypeMapping TypeName="CRUDdbModel1.Employees_Profile">
+        <MappingFragment StoreEntitySet="Employees_Profile">
+          <ScalarProperty Name="imageID" ColumnName="imageID" />
+          <ScalarProperty Name="employeeID" ColumnName="employeeID" />
+          <ScalarProperty Name="imageData" ColumnName="imageData" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

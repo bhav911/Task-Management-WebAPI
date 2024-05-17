@@ -1,0 +1,161 @@
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+D:\dotnet\Admin-Panel-main\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Mvc.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Razor.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Mvc.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Razor.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud.Repository\obj\Debug\MVCCrud.Repository.pdb

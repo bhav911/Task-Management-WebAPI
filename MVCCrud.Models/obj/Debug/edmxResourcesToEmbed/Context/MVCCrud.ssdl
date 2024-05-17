@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CRUDdbModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admins">
+    <Key>
+      <PropertyRef Name="adminID" />
+    </Key>
+    <Property Name="adminID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="lastname" Type="varchar" MaxLength="30" />
+    <Property Name="email" Type="varchar" MaxLength="60" Nullable="false" />
+    <Property Name="phoneNumber" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="adminPassword" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="employeeID" />
+    </Key>
+    <Property Name="employeeID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="firstname" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="lastname" Type="varchar" MaxLength="30" />
+    <Property Name="emp_role" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="phoneNumber" Type="char" MaxLength="10" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="emp_address" Type="varchar" MaxLength="200" />
+    <Property Name="gender" Type="char" MaxLength="1" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Employees_Profile">
+    <Key>
+      <PropertyRef Name="imageID" />
+    </Key>
+    <Property Name="imageID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="employeeID" Type="int" />
+    <Property Name="imageData" Type="varchar(max)" />
+  </EntityType>
+  <Association Name="fk_employeeID">
+    <End Role="Employees" Type="Self.Employees" Multiplicity="0..1" />
+    <End Role="Employees_Profile" Type="Self.Employees_Profile" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="employeeID" />
+      </Principal>
+      <Dependent Role="Employees_Profile">
+        <PropertyRef Name="employeeID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="CRUDdbModel1StoreContainer">
+    <EntitySet Name="Admins" EntityType="Self.Admins" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees" EntityType="Self.Employees" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Employees_Profile" EntityType="Self.Employees_Profile" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="fk_employeeID" Association="Self.fk_employeeID">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Employees_Profile" EntitySet="Employees_Profile" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

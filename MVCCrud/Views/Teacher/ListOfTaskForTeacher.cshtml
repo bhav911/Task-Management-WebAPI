@@ -1,0 +1,261 @@
+﻿@model MVCCrud.Models.CustomModel.PaginationModel
+
+<style>
+    .fa-info-circle {
+        cursor: pointer;
+    }
+
+    input[type="checkbox"] {
+        cursor: pointer;
+    }
+
+    .loader {
+        border: 16px solid #f3f3f3;
+        border-radius: 50%;
+        border-top: 16px solid #3498db;
+        width: 120px;
+        height: 120px;
+        animation: spin 2s linear infinite;
+        margin: 20% auto;
+    }
+
+    @@keyframes spin {
+        0% {
+            transform: rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    select.form-control[multiple] {
+        height: 200px;
+    }
+
+    option[disabled] {
+        color: #d4d4d4;
+    }
+</style>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            url: '/Teacher/GetAllStudents',
+            type: 'GET',
+            dataType: 'json',
+            success: function (response) {
+                var students = response;
+                $.each(students, function (index, student) {
+                    $('#studentHolder').append(`<option value=${student.StudentID} id="student${student.StudentID}">${student.StudentName}</option>`);
+                });
+            },
+            error: function (xhr, status, error) {
+                console.error('Error fetching states:', error);
+            }
+        });
+    });
+
+    let assignedStudentList;
+
+    function retrieveStudentList(taskId) {
+        debugger
+        $('#studentPopup').hide();
+        $('#loaderOfAssignList').show();
+        $.ajax({
+            url: '/Teacher/GetAssignedStudents?taskID=' + taskId,
+            type: 'GET',
+            dataType: 'json',
+            success: function (response) {
+                $('#studentPopup').show();
+                $('#loaderOfAssignList').hide();
+                assignedStudentList = response;
+                $.each(assignedStudentList, function (index, student) {
+                    $(`#student${student}`).prop({ 'checked': true, 'disabled': true });
+                    $(`#student${student}`).attr('value', null);
+                });
+            },
+            error: function (xhr, status, error) {
+                console.error('Error fetching states:', error);
+            }
+        });
+    }
+
+    function resetForm() {
+        $('#studentPopup')[0].reset();
+        $.each(assignedStudentList, function (index, student) {
+            $(`#student${student}`).prop({ 'disabled': false });
+            $(`#student${student}`).attr('value', student);
+        });
+    }
+
+    function bindTaskID(taskId) {
+        $('#taskIDHolder').attr("value", taskId);
+        retrieveStudentList(taskId)
+    }
+
+    function showSubmissionStatus(taskID) {
+        $('#loader').show();
+        $('#statusHolder').hide();
+        $.ajax({
+            url: '/Teacher/GetSubmissionStatus?taskID=' + taskID,
+            type: 'GET',
+            dataType: 'json',
+            success: function (response) {
+                $('#statusHolder').show();
+                $('#loader').hide();
+                var students = response;
+                $('#SubmittedStudent').empty();
+                $('#PendingStudent').empty();
+                $.each(students, function (index, student) {
+                    if (student.status == true) {
+                        $('#SubmittedStudent').append(`<li>${student.username}</li>`)
+                    }
+                    else {
+                        $('#PendingStudent').append(`<li>${student.username}</li>`)
+                    }
+                });
+            },
+            error: function (xhr, status, error) {
+                console.error('Error fetching states:', error);
+            }
+        });
+    }
+
+    function bindPageID(pageID) {
+        $('#pageNum').val(pageID)
+        $('#pageID').submit();
+    }
+</script>
+
+<!-- Status Model -->
+<div class="modal fade" id="SubmissionStatusModel" data-bs-backdrop="static" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">Student Submission Status</h1>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="loader" class="loader"></div>
+                <div id="statusHolder" class="hidden">
+                    <div>
+                        <p class="text-success">Submitted</p>
+                        <ul id="SubmittedStudent"></ul>
+                    </div>
+                    <hr />
+                    <div>
+                        <p class="text-danger">Pending</p>
+                        <ul id="PendingStudent"></ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Assignment Modal -->
+<div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h1 class="modal-title fs-5" id="staticBackdropLabel">Students</h1>
+                <button type="button" class="btn-close" onclick="resetForm()" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="loaderOfAssignList" class="loader"></div>
+                @using (Html.BeginForm("AssignTask", "Teacher", new { pageNum = Model.CurrentPage }, FormMethod.Post, new { @id = "studentPopup" }))
+                {
+                    <input hidden="hidden" id="taskIDHolder" name="taskID" />
+                    <select name="studentList" multiple id="studentHolder" class="form-control">
+                    </select>
+                    <div class="d-flex justify-content-end">
+                        <button type="submit" class="btn btn-success mt-4">Assign</button>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wrap w-75 mx-auto mt-5">
+    <div class="login-wrap p-4 p-md-5 border">
+
+        <div class="text-center">
+            <h3 class="mb-5">All Tasks</h3>
+        </div>
+        <div>
+            <div class="d-flex justify-content-end py-3">
+                @using (Html.BeginForm("ListOfTaskForTeacherManual", "Teacher", FormMethod.Post, new { @id = "pageID" }))
+                {
+                    <input type="number" id="pageNum" name="pageNum" hidden value="1" />
+                }
+                @{
+                    int n = Model.TotalPage;
+                    for (int i = 1; i <= n; i++)
+                    {
+                        if (@i == Model.CurrentPage)
+                        {
+                            <a class="btn bg-primary-subtle ms-1" href="#">@i</a>
+                        }
+                        else
+                        {
+                            <a class="btn btn-primary ms-1" onclick="JavaScript:bindPageID(@i)">@i</a>
+                        }
+                    }
+                }
+            </div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Task Name</th>
+                        <th>Task Description</th>
+                        <th>Task Deadline</th>
+                        <th>Action</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        if (Model != null && Model.TaskList.Count() > 0)
+                        {
+                            foreach (var task in Model.TaskList)
+                            {
+                                <tr>
+                                    <td>@task.TaskName</td>
+                                    <td>@task.Description</td>
+                                    <td>@task.Deadline.ToString().Split(' ')[0]</td>
+                                    @{
+                                        if (task.Deadline < DateTime.Now)
+                                        {
+                                            <td>
+                                                <button type="button" disabled class="btn btn-success">Deadline Over</button>
+                                            </td>
+                                        }
+                                        else
+                                        {
+                                            <td>
+                                                <button onclick="bindTaskID(@task.TaskID)" type="button" class="btn btn-success" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Assign</button>
+                                            </td>
+                                        }
+                                        <td>
+                                            <div class="text-center">
+                                                <i class="fas fa-lg fa-info-circle" onclick="showSubmissionStatus(@task.TaskID)" data-bs-toggle="modal" data-bs-target="#SubmissionStatusModel" style="color: #74C0FC;"></i>
+                                            </div>
+                                        </td>
+                                    }
+                                </tr>
+                            }
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+

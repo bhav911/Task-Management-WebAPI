@@ -1,0 +1,710 @@
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Unity.Abstractions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Unity.Container.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Unity.Mvc5.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Unity.Abstractions.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Unity.Container.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\MVCCrud\MVCCrud\bin\System.Threading.Tasks.Extensions.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csi.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csi.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\csi.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Console.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\vbc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\vbc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Optimization.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Unity.Abstractions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Unity.Container.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Unity.Mvc5.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\WebGrease.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Helpers.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Optimization.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Unity.Abstractions.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Unity.Container.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Branch\MVCCrud\MVCCrud\obj\Debug\MVCCrud.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csc.exe
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csc.exe.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csc.rsp
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csi.exe
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csi.exe.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\csi.rsp
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.AppContext.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Console.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.IO.Compression.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Net.Http.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.ValueTuple.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\vbc.exe
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\vbc.exe.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\vbc.rsp
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\VBCSCompiler.exe
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Antlr3.Runtime.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\EntityFramework.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\EntityFramework.SqlServer.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Helpers.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Models.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Repository.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Newtonsoft.Json.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Helpers.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Mvc.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Optimization.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Razor.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.Razor.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Unity.Abstractions.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Unity.Container.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Unity.Mvc5.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\WebGrease.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Helpers.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Helpers.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Models.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Models.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Repository.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\MVCCrud.Repository.dll.config
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\EntityFramework.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\EntityFramework.SqlServer.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Helpers.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Mvc.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Optimization.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.Razor.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\System.Web.WebPages.Razor.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Newtonsoft.Json.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Unity.Abstractions.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Unity.Container.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Antlr3.Runtime.pdb
+D:\dotnet\Admin-Panel-main\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet\Admin-Panel-main\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+D:\dotnet\Admin-Panel-main\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+D:\dotnet\Admin-Panel-main\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+D:\dotnet\Admin-Panel-main\MVCCrud\obj\Debug\MVCCrud.dll
+D:\dotnet\Admin-Panel-main\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csi.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csi.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\csi.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Console.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\vbc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\vbc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Optimization.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Unity.Abstractions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Unity.Container.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Unity.Mvc5.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\WebGrease.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Helpers.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Optimization.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Unity.Abstractions.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Unity.Container.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task_Management\Task-Management-master\MVCCrud\obj\Debug\MVCCrud.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csc.exe
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csc.exe.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csc.rsp
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csi.exe
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csi.exe.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\csi.rsp
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.AppContext.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Console.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.IO.Compression.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Net.Http.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.ValueTuple.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\vbc.exe
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\vbc.exe.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\vbc.rsp
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\VBCSCompiler.exe
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Antlr3.Runtime.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\EntityFramework.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\EntityFramework.SqlServer.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Helpers.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Models.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Repository.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Newtonsoft.Json.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Helpers.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Mvc.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Optimization.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Razor.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.Razor.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Unity.Abstractions.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Unity.Container.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Unity.Mvc5.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\WebGrease.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Helpers.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Helpers.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Models.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Models.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Repository.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\MVCCrud.Repository.dll.config
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\EntityFramework.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\EntityFramework.SqlServer.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Helpers.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Mvc.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Optimization.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.Razor.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\System.Web.WebPages.Razor.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Newtonsoft.Json.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Unity.Abstractions.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Unity.Container.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Antlr3.Runtime.pdb
+D:\dotnet\NewBranch\Task-Management\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\dotnet\NewBranch\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+D:\dotnet\NewBranch\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+D:\dotnet\NewBranch\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+D:\dotnet\NewBranch\Task-Management\MVCCrud\obj\Debug\MVCCrud.dll
+D:\dotnet\NewBranch\Task-Management\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csi.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csi.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\csi.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Console.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\vbc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\vbc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Optimization.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Unity.Abstractions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Unity.Container.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Unity.Mvc5.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\WebGrease.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Helpers.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Optimization.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Unity.Abstractions.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Unity.Container.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Net.Http.Formatting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Http.WebHost.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Net.Http.Formatting.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Http.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-main\Task-Management\MVCCrud\bin\System.Web.Http.WebHost.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csi.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csi.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\csi.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.AppContext.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Console.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.IO.Compression.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Net.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Net.Sockets.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.ValueTuple.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\vbc.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\vbc.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\vbc.rsp
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\VBCSCompiler.exe
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Antlr3.Runtime.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\EntityFramework.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\EntityFramework.SqlServer.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Models.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Repository.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Newtonsoft.Json.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Net.Http.Formatting.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Helpers.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Http.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Http.WebHost.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Mvc.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Optimization.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.Razor.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Unity.Abstractions.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Unity.Container.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Unity.Mvc5.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\WebGrease.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Helpers.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Helpers.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Models.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Models.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Repository.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrud.Repository.dll.config
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\EntityFramework.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\EntityFramework.SqlServer.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Net.Http.Formatting.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Http.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Http.WebHost.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Helpers.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Mvc.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Optimization.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\System.Web.WebPages.Razor.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Newtonsoft.Json.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Unity.Abstractions.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Unity.Container.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Antlr3.Runtime.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\obj\Debug\MVCCrud.csproj.AssemblyReference.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\obj\Debug\MVCCrud.csproj.CoreCompileInputs.cache
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\obj\Debug\MVCCrud.csproj.CopyComplete
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\obj\Debug\MVCCrud.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\obj\Debug\MVCCrud.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrudWebAPI.dll
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrudWebAPI.pdb
+C:\Bhavya_Modhiya\Training_tasks\dotnet training codes\Task-Management-webAPI\MVCCrud\bin\MVCCrudWebAPI.dll.config

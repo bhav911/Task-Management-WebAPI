@@ -1,0 +1,28 @@
+﻿<div class="wrap w-50 mx-auto mt-5">
+    <div class="login-wrap p-4 p-md-5 border">
+        <div class="text-center">
+                <h3 class="mb-5">Create Task</h3>
+        </div>
+        @using (Html.BeginForm())
+        {
+            <div class="form-floating mb-4">
+                @Html.TextBox("TaskName", null, new { @class = "form-control", @placeholder = "" })
+                @Html.Label("taskNTaskNameame", "Task Name",  null)
+                @Html.ValidationMessage("TaskName", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating mb-4">
+                @Html.TextArea("Description", null, new { @class = "form-control", @placeholder = "" })
+                @Html.Label("Description", "Task Description")
+                @Html.ValidationMessage("Description", new { @class = "text-danger" })
+            </div>
+            <div class="form-floating mb-4">
+                @Html.TextBox("Deadline", null, new { @class = "form-control", @placeholder = "", @type = "Date" })
+                @Html.Label("Deadline", "Task Deadline")
+                @Html.ValidationMessage("Deadline", new { @class = "text-danger" })
+            </div>
+            <div class="d-flex justify-content-end">
+                @Html.TextBox("Submit", "Submit", new { @class="btn btn-primary", @type="submit" })
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,64 @@
+﻿<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Login 05</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="~/Content/Theme/login-form-15/css/style.css">
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css">
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    <link href="~/Content/toastr.css" rel="stylesheet" />
+    <script src="~/Scripts/toastr.js"></script>
+
+</head>
+<body>
+    @if (@TempData["emessage"] != null)
+    {
+        <script>
+            toastr.error('@TempData["emessage"]');
+        </script>
+    }
+
+    @if (@TempData["smessage"] != null)
+    {
+        <script>
+            toastr.success('@TempData["smessage"]');
+        </script>
+    }
+
+    @if (@TempData["wmessage"] != null)
+    {
+        <script>
+            toastr.warning('@TempData["wmessage"]');
+        </script>
+    }
+
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-7 col-lg-9">
+                    <div class="wrap">
+                        <div class="img" style="background-image: url(../../Content/Theme/login-form-15/images/bg-1.jpg);"></div>
+                        <div class="login-wrap p-4 p-md-5">
+                            @RenderBody()
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="~/Content/Theme/login-form-15/js/jquery.min.js"></script>
+    <script src="~/Content/Theme/login-form-15/js/popper.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Content/Theme/login-form-15/js/main.js"></script>
+
+</body>
+</html>
+

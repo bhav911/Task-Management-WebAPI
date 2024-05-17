@@ -1,0 +1,119 @@
+﻿@model MVCCrud.Models.CustomModel.PaginationModel
+
+<script>
+    function bindPageID(pageID) {
+        $('#pageNum').val(pageID)
+        $('#pageID').submit();
+    }
+</script>
+
+<div class="wrap w-75 mx-auto mt-5">
+    <div class="login-wrap p-4 p-md-5 border">
+        <div class="text-center">
+            <h3 class="mb-5">List of all student</h3>
+        </div>
+
+        <div class="d-flex justify-content-end py-3">
+            @using (Html.BeginForm(null, null, FormMethod.Post, new { @id = "pageID" }))
+            {
+                <input type="number" id="pageNum" name="pageNum" hidden value="1" />
+            }
+            @{
+                int n = Model.TotalPage;
+                for (int i = 1; i <= n; i++)
+                {
+                    if (@i == Model.CurrentPage)
+                    {
+                        <a class="btn bg-primary-subtle ms-1" href="#">@i</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-primary ms-1" onclick="JavaScript:bindPageID(@i)">@i</a>
+                    }
+                }
+
+
+}
+        </div>
+
+        <div>
+            <table class="table">
+                <tr>
+                    <th>
+                        Task
+                    </th>
+                    <th>
+                        Task Description
+                    </th>
+                    <th>
+                        Deadline
+                    </th>
+                    <th>
+                        Student Name
+                    </th>
+                    @{
+                        if (ViewData.ContainsKey("subList"))
+                        {
+                            <th>Submitted On</th>
+                        }
+                        if (ViewData.ContainsKey("fullList"))
+                        {
+                            <th>Status</th>
+                        }
+                    }
+                </tr>
+
+                @{
+                    if (ViewData.ContainsKey("fullList"))
+                    {
+                        foreach (var item in Model.StudentList)
+                        {
+                            <tr>
+                                <td>@item.TaskName</td>
+                                <td>@item.Description</td>
+                                <td>@item.Deadline.ToString().Split(' ')[0]</td>
+                                <td>@item.Username</td>
+                                @{
+                                    if (item.Status == true)
+                                    {
+                                        <td class="text-success">Submitted</td>
+                                    }
+                                    else
+                                    {
+                                        <td class="text-danger">Pending</td>
+                                    }
+                                }
+                            </tr>
+                        }
+                    }
+                    else if(ViewData.ContainsKey("subList"))
+                    {
+                        foreach (var item in Model.StudentList)
+                        {
+                            <tr>
+                                <td>@item.TaskName</td>
+                                <td>@item.Description</td>
+                                <td>@item.Deadline.ToString().Split(' ')[0]</td>
+                                <td>@item.Username</td>
+                                <td>@item.submissionDate</td>
+                            </tr>
+                        }
+                    }
+                    else{
+                        foreach (var item in Model.StudentList)
+                        {
+                            <tr>
+                                <td>@item.TaskName</td>
+                                <td>@item.Description</td>
+                                <td>@item.Deadline.ToString().Split(' ')[0]</td>
+                                <td>@item.Username</td>
+                            </tr>
+                        }
+                    }
+                }
+            </table>
+
+        </div>
+
+    </div>
+</div>

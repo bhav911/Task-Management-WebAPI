@@ -1,0 +1,75 @@
+﻿@model List<MVCCrud.Models.CustomModel.AssignmentModel>
+
+<script>
+    function submitTask(ele, taskID) {
+        $.ajax({
+            url: '/Student/SubmitTask?taskID=' + taskID,
+            type: 'GET',
+            dataType: 'json',
+            success: function (response) {
+                $(ele).off("onclick");
+                $(ele).text("Submitted");
+                $(ele).prop('disabled', true);
+                toastr.success("Task Submitted Successfully");
+            },
+            error: function (xhr, status, error) {
+                console.error('Error fetching states:', error);
+            }
+        });
+    }
+</script>
+
+
+
+<div class="wrap w-75 mx-auto mt-5">
+    <div class="login-wrap p-4 p-md-5 border">
+        <div class="text-center">
+            <h3 class="mb-5">List Of Tasks</h3>
+        </div>
+        <div>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Task</th>
+                        <th>Description</th>
+                        <th>Dealine</th>
+                        <th>Assigner</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        foreach (var task in Model)
+                        {
+                            <tr>
+                                <td>@task.TaskName</td>
+                                <td>@task.Description</td>
+                                <td>@task.Deadline.ToString().Split(' ')[0]</td>
+                                <td>@task.TeacherUsername</td>
+                                @{ 
+                                    if (task.Status == true)
+                                    {
+                                        <td><button class="btn btn-success btn-sm" disabled>Submitted</button></td>
+                                    }
+                                    else
+                                    {
+                                        if (task.Deadline < DateTime.Now)
+                                        {
+                                            <td><button class="btn btn-danger btn-sm" disabled>Deadline Over</button></td>
+                                        }
+                                        else
+                                        {
+                                            <td><button class="btn btn-success btn-sm" onclick="submitTask(this, @task.TaskID)">Submit</button></td>
+                                        }
+                                    }
+                                }
+                            </tr>
+                        }
+                    }
+                </tbody>
+
+            </table>
+        </div>
+
+    </div>
+</div>
