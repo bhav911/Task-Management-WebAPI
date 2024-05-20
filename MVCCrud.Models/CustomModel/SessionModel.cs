@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace MVCCrud.Models.CustomModel
 {
-    public class StudentModel
+    public class SessionModel
     {
-        public int StudentID { get; set; }
+        public int UserID { get; set; }
         public string Username { get; set; }
        
     }

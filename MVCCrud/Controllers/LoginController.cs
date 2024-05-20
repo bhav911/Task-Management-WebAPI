@@ -1,11 +1,14 @@
-﻿using MVCCrud.Helpers.Helper;
+﻿using MVCCrud.Common;
+using MVCCrud.Helpers.Helper;
 using MVCCrud.Models.Context;
 using MVCCrud.Models.CustomModel;
 using MVCCrud.Repository.Services;
 using MVCCrud.Sessions;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 
@@ -32,7 +35,7 @@ namespace MVCCrud.Controllers
         }
 
         [HttpPost]
-        public ActionResult SignIn(LoginModel credentials)
+        public async Task<ActionResult> SignIn(LoginModel credentials)
         {
             try
             {
@@ -40,10 +43,11 @@ namespace MVCCrud.Controllers
                 {
                     if (credentials.Role.Equals("Student"))
                     {
-                        Students authenticateStudent = _student.AuthenticStudent(credentials);
+                        string status = await WebApiHelper.HttpClientRequestResponsePost("api/LoginApi/SignIn", null, null, "SignIn", credentials, null);
+                        SessionModel authenticateStudent = JsonConvert.DeserializeObject<SessionModel>(status);
                         if (authenticateStudent != null)
                         {
-                            UserSession.UserID = authenticateStudent.StudentID;
+                            UserSession.UserID = authenticateStudent.UserID;
                             UserSession.UserName = authenticateStudent.Username;
                             UserSession.UserRole = credentials.Role;
                             TempData["smessage"] = "Log In Successfull";
@@ -52,10 +56,11 @@ namespace MVCCrud.Controllers
                     }
                     else if (credentials.Role.Equals("Teacher"))
                     {
-                        Teachers authenticateTeacher = _teacher.AuthenticTeacher(credentials);
+                        string status = await WebApiHelper.HttpClientRequestResponsePost("api/LoginApi/SignIn", null, null, "SignIn", credentials, null);
+                        SessionModel authenticateTeacher = JsonConvert.DeserializeObject<SessionModel>(status);
                         if (authenticateTeacher != null)
                         {
-                            UserSession.UserID = authenticateTeacher.TeacherID;
+                            UserSession.UserID = authenticateTeacher.UserID;
                             UserSession.UserName = authenticateTeacher.Username;
                             UserSession.UserRole = credentials.Role;
                             TempData["smessage"] = "Log In Successfull";
@@ -101,34 +106,23 @@ namespace MVCCrud.Controllers
         }
 
         [HttpPost]
-        public ActionResult SignUp(NewRegistrationModel newPerson)
+        public async Task<ActionResult> SignUp(NewRegistrationModel newPerson)
         {
             try
             {
                 HttpContext.Session.Clear();
                 if (ModelState.IsValid)
                 {
-                    if (newPerson.Role.Equals("Student"))
+                    string response  = await WebApiHelper.HttpClientRequestResponsePost("api/LoginApi/SignUp", null, null, "SignUp", null, newPerson);
+                    string status = JsonConvert.DeserializeObject<string>(response);
+                    if(status.Equals("exist"))
                     {
-                        if (_student.DoesStudentExist(newPerson.Username))
-                        {
-                            TempData["wmessage"] = "Student is already registered";
-                            return View(newPerson);
-                        }
-                        Students newStudent = ModelConverterHelper.convertStudentModalToStudent(newPerson);
-                        _student.RegisterStudent(newStudent);
-                        TempData["smessage"] = "Student Registered Successfully";
+                        TempData["wmessage"] = "User is already registered";
+                        return View(newPerson);
                     }
-                    else if (newPerson.Role.Equals("Teacher"))
+                    else
                     {
-                        if (_teacher.DoesTeacherExist(newPerson.Username))
-                        {
-                            TempData["wmessage"] = "Admin is already registered";
-                            return View(newPerson);
-                        }
-                        Teachers newTeacher = ModelConverterHelper.convertTeacherModalToTeacher(newPerson);
-                        _teacher.RegisterTeacher(newTeacher);
-                        TempData["smessage"] = "Teacher Registered Successfully";
+                        TempData["smessage"] = "User Registered Successfully";
                     }
                     return RedirectToAction("SignIn");
                 }
@@ -153,11 +147,12 @@ namespace MVCCrud.Controllers
                 return View("Error");
             }
         }
-        public JsonResult GetAllStates()
+        public async Task<JsonResult> GetAllStates()
         {
             try
             {
-                List<StateModel> states = _states.GetAllStates();
+                string result = await WebApiHelper.HttpClientRequestResponseGet("api/LoginApi/GetAllStates");
+                List<StateModel> states = JsonConvert.DeserializeObject<List<StateModel>>(result);
                 return Json(states, JsonRequestBehavior.AllowGet);
             }
             catch (Exception)
@@ -167,12 +162,14 @@ namespace MVCCrud.Controllers
             }
         }
 
-        public JsonResult GetAllCities(int stateID)
+        public async Task<JsonResult> GetAllCities(int stateID)
         {
             try
             {
-                List<CityModel> cities = _states.GetAllCities(stateID);
-                return Json(cities, JsonRequestBehavior.AllowGet);
+                string result = await WebApiHelper.HttpClientRequestResponseGet("api/LoginApi/GetAllCities?stateID=" + stateID);
+                //optional to DeserializeObject
+                List<CityModel> cities = JsonConvert.DeserializeObject<List<CityModel>>(result);
+                return Json(result, JsonRequestBehavior.AllowGet);
             }
             catch (Exception)
             {

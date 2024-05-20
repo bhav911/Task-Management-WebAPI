@@ -1,13 +1,9 @@
 ﻿using MVCCrud.Models.Context;
 using MVCCrud.Models.CustomModel;
-using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
-using System.Web;
 
 namespace MVCCrud.Common
 {
@@ -32,7 +28,7 @@ namespace MVCCrud.Common
             }
         }
 
-        public static async Task<string> HttpClientRequestResponsePost(string url, Tasks newTask, int[] studentList, string method)
+        public static async Task<string> HttpClientRequestResponsePost(string url, Tasks newTask, int[] studentList, string method, LoginModel credentials, NewRegistrationModel newPerson)
         {
             using (var client = new HttpClient())
             {
@@ -48,6 +44,12 @@ namespace MVCCrud.Common
                         break;
                     case "AssignTask":
                         response = await client.PostAsJsonAsync(url, studentList);
+                        break;
+                    case "SignIn":
+                        response = await client.PostAsJsonAsync(url, credentials);
+                        break;
+                    case "SignUp":
+                        response = await client.PostAsJsonAsync(url, newPerson);
                         break;
                 }
 

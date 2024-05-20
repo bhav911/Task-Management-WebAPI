@@ -26,7 +26,29 @@ namespace MVCCrud.Helpers.Helper
 
             return newStudent;
         }
-                
+
+        public static SessionModel convertPersonToSessionModal(Students student)
+        {
+            SessionModel newStudent = new SessionModel()
+            {
+                UserID = student.StudentID,
+                Username = student.Username
+            };
+
+            return newStudent;
+        }
+
+        public static SessionModel convertPersonToSessionModal(Teachers teacher)
+        {
+            SessionModel newTeacher = new SessionModel()
+            {
+                UserID = teacher.TeacherID,
+                Username = teacher.Username
+            };
+
+            return newTeacher;
+        }
+
         public static List<AssignStudentModel> convertStudentToAssignStudent(List<Students> StudentList)
         {
             List<AssignStudentModel> studentModelList = new List<AssignStudentModel>();

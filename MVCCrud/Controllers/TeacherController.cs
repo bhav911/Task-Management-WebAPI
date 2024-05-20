@@ -46,7 +46,7 @@ namespace MVCCrud.Controllers
                     if (ModelState.IsValid)
                     {
                         Tasks convertedTask = ModelConverterHelper.ConvertTaskModelToTask(newTask);
-                        string status = await WebApiHelper.HttpClientRequestResponsePost("api/TeacherApi/CreateTask", convertedTask, null, "createTask");
+                        string status = await WebApiHelper.HttpClientRequestResponsePost("api/TeacherApi/CreateTask", convertedTask, null, "createTask", null, null);
                         TempData["smessage"] = "Task Created Successfully";
                         return RedirectToAction("CreateTask");
                     }
@@ -102,7 +102,7 @@ namespace MVCCrud.Controllers
             {
                 if (UserSession.UserRole.Equals("Teacher"))
                 {
-                    string status = await WebApiHelper.HttpClientRequestResponsePost("api/TeacherApi/AssignTask?taskID=" + taskID, null, studentList, "AssignTask");
+                    string status = await WebApiHelper.HttpClientRequestResponsePost("api/TeacherApi/AssignTask?taskID=" + taskID, null, studentList, "AssignTask", null, null);
                     TempData["smessage"] = "Task Assigned Successfully";
                     return RedirectToAction("ListOfTaskForTeacherManual", new { pageNum });
                 }

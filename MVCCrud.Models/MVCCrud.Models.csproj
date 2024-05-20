@@ -92,7 +92,7 @@
     <Compile Include="CustomModel\NewRegistrationModel.cs" />
     <Compile Include="CustomModel\StateModel.cs" />
     <Compile Include="CustomModel\StudentDashboardModel.cs" />
-    <Compile Include="CustomModel\StudentModel.cs" />
+    <Compile Include="CustomModel\SessionModel.cs" />
     <Compile Include="CustomModel\SubmissionStatusModel.cs" />
     <Compile Include="CustomModel\TaskModel.cs" />
     <Compile Include="CustomModel\TeacherDashboardModel.cs" />

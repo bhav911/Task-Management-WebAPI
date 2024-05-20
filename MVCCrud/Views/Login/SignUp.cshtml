@@ -4,8 +4,9 @@
 
 <script>
     function resetForm() {
-        $('#login_password').val("");
-        $('#login_username').val("");
+        let role = document.getElementById("Role").value;
+        document.getElementById("sign-up").reset();
+        document.getElementById("Role").value = role;
     }
 
     $(document).ready(function () {
@@ -36,8 +37,8 @@
                 type: 'GET',
                 dataType: 'json',
                 success: function (response) {
-                    var cities = response;
-                    $('#CityID').html("<option selected>Select City</option>")
+                    var cities = JSON.parse(response);
+                    $('#CityID').html("<option selected>Select City</option>");
                     $.each(cities, function (index, city) {
                         $('#CityID').append($('<option>', {
                             value: city.CityID,
@@ -62,7 +63,7 @@
     </div>
 </div>
 <form method="post" novalidate id="sign-up">
-    <select class="form-select py-3" name="Role" onchange="resetForm()">
+    <select class="form-select py-3" id="Role" name="Role" onchange="resetForm()">
         <option>Select Role</option>
         <option value="Student">Student</option>
         <option value="Teacher">Teacher</option>
